@@ -4,7 +4,7 @@
 
 <h2>Group Members:
   <ul><li>Aftab Ahmed 023190049</li>
-    <li>Muhammad Hasnain 023190000</li>
+    <li>Muhammad Hasnain 023190034</li>
   <li>Javeria Irfan 023190059</li></ul></h2>
 
 # Overview of the project
